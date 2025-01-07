@@ -69,8 +69,8 @@ Ensure the following are installed:
 - Receive detailed responses and links to additional resources.
 
 ## API Documentation Links
-- [Tavily API Documentation](https://tavily.readthedocs.io)
-- [DuckDuckGo LangChain Integration](https://docs.langchain.com/docs/integrations/tools/duckduckgo)
+- [Tavily API Documentation](https://python.langchain.com/docs/integrations/tools/tavily_search/)
+- [DuckDuckGo LangChain Integration](https://python.langchain.com/docs/integrations/tools/ddg/)
 
 ## Project Structure
 ```
