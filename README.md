@@ -2,7 +2,7 @@
 
 This project is a **Law Assistant Chatbot** designed to assist users with legal queries. Built with **LangChain** and **Streamlit**, the chatbot integrates multiple intelligent agents to provide comprehensive legal assistance through document-based retrieval, keyword searches, and conversational AI.
 
-![Chatbot Screenshot](output/SimpleChatbot1.png)
+![Chatbot Screenshot](output/bot.png)
 
 ## Features
 
